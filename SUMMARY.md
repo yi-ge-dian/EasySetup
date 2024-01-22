@@ -8,3 +8,5 @@
   * [Kind 搭建 k8s 集群](cloud-native/kind-da-jian-k8s-ji-qun.md)
 * [Language](language.md)
 * [SSH](ssh.md)
+* [Virtual Machine](virtual-machine/README.md)
+  * [Windows 安装 ubuntu 虚拟机](virtual-machine/windows-an-zhuang-ubuntu-xu-ni-ji.md)
