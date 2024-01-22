@@ -13,6 +13,8 @@
   * [Go语言安装](language/go-yu-yan-an-zhuang.md)
 * [Linux Command](linux-command/README.md)
   * [Ubuntu](linux-command/ubuntu.md)
+  * [Common](linux-command/common/README.md)
+    * [端口](linux-command/common/duan-kou.md)
 * [Machine Learning](machine-learning/README.md)
   * [Anaconda 安装](machine-learning/anaconda-an-zhuang.md)
 * [SSH](ssh.md)
