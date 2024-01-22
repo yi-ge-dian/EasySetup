@@ -17,3 +17,5 @@
 * [System Beautify](system-beautify/README.md)
   * [Linux](system-beautify/linux/README.md)
     * [Linux 安装 oh-my-zsh](system-beautify/linux/linux-an-zhuang-ohmyzsh.md)
+* [Common Dev](common-dev/README.md)
+  * [VScode 下 cmake + clang + lldb 调试](common-dev/vscode-xia-cmake-+-clang-+-lldb-tiao-shi.md)
