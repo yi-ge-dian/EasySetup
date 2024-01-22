@@ -1,5 +1,15 @@
 # Kind 搭建 k8s 集群
 
+前置安装：
+
+{% content-ref url="kind-an-zhuang.md" %}
+[kind-an-zhuang.md](kind-an-zhuang.md)
+{% endcontent-ref %}
+
+{% content-ref url="kubectl-an-zhuang.md" %}
+[kubectl-an-zhuang.md](kubectl-an-zhuang.md)
+{% endcontent-ref %}
+
 官网文档：[https://kind.sigs.k8s.io/](https://kind.sigs.k8s.io/)
 
 创建一个配置文件
