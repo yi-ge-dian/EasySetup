@@ -25,3 +25,4 @@
   * [Mac m1 安装 centos 虚拟机](virtual-machine/mac-m1-an-zhuang-centos-xu-ni-ji.md)
   * [Windows 安装 wsl2](virtual-machine/windows-an-zhuang-wsl2.md)
   * [磁盘安装扩容问题](virtual-machine/ci-pan-an-zhuang-kuo-rong-wen-ti.md)
+  * [虚拟机代理脚本](virtual-machine/xu-ni-ji-dai-li-jiao-ben.md)
