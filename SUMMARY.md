@@ -13,6 +13,7 @@
   * [Mac m1 安装 ubuntu 虚拟机](virtual-machine/mac-m1-an-zhuang-ubuntu-xu-ni-ji.md)
   * [Mac m1 安装 centos 虚拟机](virtual-machine/mac-m1-an-zhuang-centos-xu-ni-ji.md)
   * [Windows 安装 wsl2](virtual-machine/windows-an-zhuang-wsl2.md)
+  * [磁盘安装扩容问题](virtual-machine/ci-pan-an-zhuang-kuo-rong-wen-ti.md)
 * [System Beautify](system-beautify/README.md)
   * [Linux](system-beautify/linux/README.md)
     * [Linux 安装 oh-my-zsh](system-beautify/linux/linux-an-zhuang-ohmyzsh.md)
