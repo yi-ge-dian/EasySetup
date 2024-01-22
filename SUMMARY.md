@@ -11,6 +11,8 @@
   * [Protoc 安装](common-dev/protoc-an-zhuang.md)
 * [Language](language/README.md)
   * [Go语言安装](language/go-yu-yan-an-zhuang.md)
+* [Linux Command](linux-command/README.md)
+  * [Ubuntu](linux-command/ubuntu.md)
 * [Machine Learning](machine-learning/README.md)
   * [Anaconda 安装](machine-learning/anaconda-an-zhuang.md)
 * [SSH](ssh.md)
