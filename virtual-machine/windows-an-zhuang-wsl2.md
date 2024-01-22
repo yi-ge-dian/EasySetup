@@ -75,3 +75,9 @@ wsl --set-default-version 2
 下载链接
 {% endembed %}
 
+2. WSL2 走本机代理脚本
+
+```bash
+host_ip=$(cat /etc/resolv.conf |grep "nameserver" |cut -f 2 -d " ") 
+export ALL_PROXY="http://$host_ip:7890"
+```
