@@ -11,3 +11,4 @@
 * [Virtual Machine](virtual-machine/README.md)
   * [Windows 安装 ubuntu 虚拟机](virtual-machine/windows-an-zhuang-ubuntu-xu-ni-ji.md)
   * [Mac m1 安装 ubuntu 虚拟机](virtual-machine/mac-m1-an-zhuang-ubuntu-xu-ni-ji.md)
+  * [Mac m1 安装 centos 虚拟机](virtual-machine/mac-m1-an-zhuang-centos-xu-ni-ji.md)

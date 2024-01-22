@@ -17,6 +17,6 @@ sudo reboot
 
 2. 虚拟机改代理，前面的数字为主机 ipconfig 下的 ip ，端口为本机代理端口
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>代理</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>代理</p></figcaption></figure>
 
 3. 安装界面太小，按 alt+f7 加鼠标滚轮调动
