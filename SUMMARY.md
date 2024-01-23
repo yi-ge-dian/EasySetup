@@ -2,11 +2,12 @@
 
 ## 📚 云原生
 
-* [Kind 搭建 k8s 集群](README.md)
-* [K9s 安装](yun-yuan-sheng/k9s-an-zhuang.md)
-* [Kind 安装](yun-yuan-sheng/kind-an-zhuang.md)
-* [Kubebuilder 安装](yun-yuan-sheng/kubebuilder-an-zhuang.md)
-* [Kubectl 安装](yun-yuan-sheng/kubectl-an-zhuang.md)
+* [K8s](README.md)
+  * [Kind 安装](yun-yuan-sheng/k8s/kind-an-zhuang.md)
+  * [Kubebuilder 安装](yun-yuan-sheng/k8s/kubebuilder-an-zhuang.md)
+  * [Kind 搭建 k8s 集群](yun-yuan-sheng/k8s/kind-da-jian-k8s-ji-qun.md)
+  * [K9s 安装](yun-yuan-sheng/k8s/k9s-an-zhuang.md)
+  * [Kubectl 安装](yun-yuan-sheng/k8s/kubectl-an-zhuang.md)
 
 ## 🛠 常用开发工具
 
