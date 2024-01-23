@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Cloud Native](README.md)
-  * [Kind 安装](cloud-native/kind-an-zhuang.md)
-  * [Kubebuilder 安装](cloud-native/kubebuilder-an-zhuang.md)
-  * [K9s 安装](cloud-native/k9s-an-zhuang.md)
-  * [Kubectl 安装](cloud-native/kubectl-an-zhuang.md)
-  * [Kind 搭建 k8s 集群](cloud-native/kind-da-jian-k8s-ji-qun.md)
+  * [Kind 安装](readme/kind-an-zhuang.md)
+  * [Kubebuilder 安装](readme/kubebuilder-an-zhuang.md)
+  * [K9s 安装](readme/k9s-an-zhuang.md)
+  * [Kubectl 安装](readme/kubectl-an-zhuang.md)
+  * [Kind 搭建 k8s 集群](readme/kind-da-jian-k8s-ji-qun.md)
 * [Common Dev](common-dev/README.md)
   * [VScode 下 cmake + clang + lldb 调试](common-dev/vscode-xia-cmake-+-clang-+-lldb-tiao-shi.md)
   * [Protoc 安装](common-dev/protoc-an-zhuang.md)
