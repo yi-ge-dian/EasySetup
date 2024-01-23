@@ -22,6 +22,8 @@
 * [System Beautify](system-beautify/README.md)
   * [Linux](system-beautify/linux/README.md)
     * [Linux 安装 oh-my-zsh](system-beautify/linux/linux-an-zhuang-ohmyzsh.md)
+  * [Mac](system-beautify/mac/README.md)
+    * [批量删除PPT的备注](system-beautify/mac/pi-liang-shan-chu-ppt-de-bei-zhu.md)
 * [Virtual Machine](virtual-machine/README.md)
   * [Windows 安装 ubuntu 虚拟机](virtual-machine/windows-an-zhuang-ubuntu-xu-ni-ji.md)
   * [Mac m1 安装 ubuntu 虚拟机](virtual-machine/mac-m1-an-zhuang-ubuntu-xu-ni-ji.md)
