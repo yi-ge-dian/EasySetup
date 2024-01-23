@@ -2,8 +2,8 @@
 
 安装go（备注：go版本需要1.16及以上）
 
-{% content-ref url="../language/go-yu-yan-an-zhuang.md" %}
-[go-yu-yan-an-zhuang.md](../language/go-yu-yan-an-zhuang.md)
+{% content-ref url="../yu-yan/go-yu-yan-an-zhuang.md" %}
+[go-yu-yan-an-zhuang.md](../yu-yan/go-yu-yan-an-zhuang.md)
 {% endcontent-ref %}
 
 Protocol buffer complier 安装
@@ -33,7 +33,6 @@ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
 export PATH="$PATH:$(go env GOPATH)/bin"bash
 ```
 
-protoc —go\_out=. message.proto&#x20;
+protoc —go\_out=. message.proto
 
 protoc —go-grpc\_out=. message.proto
-
