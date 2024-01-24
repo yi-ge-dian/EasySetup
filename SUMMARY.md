@@ -29,6 +29,9 @@
 ## ☄ 机器学习
 
 * [Anaconda 安装](ji-qi-xue-xi/anaconda-an-zhuang.md)
+* [LLMs](ji-qi-xue-xi/llms/README.md)
+  * [清华团队](ji-qi-xue-xi/llms/qing-hua-tuan-dui/README.md)
+    * [ChatGLM-6B](ji-qi-xue-xi/llms/qing-hua-tuan-dui/chatglm-6b.md)
 
 ## 🏖 系统美化
 
