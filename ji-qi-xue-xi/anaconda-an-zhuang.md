@@ -17,6 +17,6 @@ conda create -n env_name package_name
 删除环境
 
 ```
-conda remove --name env_name –all
+conda remove --name env_name --all
 ```
 
