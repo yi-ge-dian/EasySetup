@@ -28,7 +28,7 @@ type C:\path\to\id_rsa.pub | ssh user@server_ip "mkdir -p ~/.ssh && cat >> ~/.ss
 
 Linux 下上传密钥到服务器
 
-```
+```bash
 ssh-copy-id -i .ssh/id_rsa.pub username@ip
 ```
 
@@ -47,7 +47,6 @@ ssh-copy-id -i .ssh/id_rsa.pub username@ip
 
 
 
-    ```
-    PubkeyAuthentication yes
-    PasswordAuthentication no
+    ```bash
+    sudo systemctl restart ssh
     ```
