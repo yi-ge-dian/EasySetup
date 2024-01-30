@@ -16,7 +16,8 @@
 * [VScode 下 cmake + clang + lldb 调试](chang-yong-kai-fa-gong-ju/vscode-xia-cmake-+-clang-+-lldb-tiao-shi.md)
 * [Protoc 安装](chang-yong-kai-fa-gong-ju/protoc-an-zhuang.md)
 * [SSH](chang-yong-kai-fa-gong-ju/ssh.md)
-* [Git](chang-yong-kai-fa-gong-ju/git.md)
+* [Git](chang-yong-kai-fa-gong-ju/git/README.md)
+  * [解决Github连接不上的问题](chang-yong-kai-fa-gong-ju/git/jie-jue-github-lian-jie-bu-shang-de-wen-ti.md)
 
 ## 📌 语言
 
