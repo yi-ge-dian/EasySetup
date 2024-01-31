@@ -11,5 +11,11 @@ adduser username
 2. 提升权限
 
 ```bash
-usermod -aG sudo usernamebash
+usermod -aG sudo username
+```
+
+3. 加入docker组（使用docker时不再需要sudo，并且vscode的Dev Containers插件能正常使用）
+
+```bash
+sudo usermod -aG docker <username>
 ```

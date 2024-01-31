@@ -34,12 +34,12 @@ sudo apt-get update
 
 3. 安装docker engine
 
-```
+```bash
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
 4. 运行hello-word容器进行测试
 
-```
+```bash
 sudo docker run hello-world
 ```

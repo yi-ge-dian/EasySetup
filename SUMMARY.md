@@ -10,6 +10,7 @@
   * [Kubectl 安装](yun-yuan-sheng/k8s/kubectl-an-zhuang.md)
 * [Docker](yun-yuan-sheng/docker/README.md)
   * [Docker安装](yun-yuan-sheng/docker/docker-an-zhuang.md)
+  * [Docker创建Pytorch容器](yun-yuan-sheng/docker/docker-chuang-jian-pytorch-rong-qi.md)
 
 ## 🛠 常用开发工具
 
@@ -35,6 +36,7 @@
 * [LLMs](ji-qi-xue-xi/llms/README.md)
   * [清华团队](ji-qi-xue-xi/llms/qing-hua-tuan-dui/README.md)
     * [ChatGLM-6B](ji-qi-xue-xi/llms/qing-hua-tuan-dui/chatglm-6b.md)
+* [NVIDIA显卡驱动安装](ji-qi-xue-xi/nvidia-xian-ka-qu-dong-an-zhuang.md)
 
 ## 🏖 系统美化
 
