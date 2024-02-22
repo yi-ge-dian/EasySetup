@@ -23,6 +23,7 @@
 ## 📌 语言
 
 * [Go语言安装](yu-yan/go-yu-yan-an-zhuang.md)
+* [Nodejs 安装](yu-yan/nodejs-an-zhuang.md)
 
 ## 🍭 Linux命令
 
@@ -36,6 +37,7 @@
 * [LLMs](ji-qi-xue-xi/llms/README.md)
   * [清华团队](ji-qi-xue-xi/llms/qing-hua-tuan-dui/README.md)
     * [ChatGLM-6B](ji-qi-xue-xi/llms/qing-hua-tuan-dui/chatglm-6b.md)
+  * [ChatGPT Admin Web 搭建](ji-qi-xue-xi/llms/chatgpt-admin-web-da-jian.md)
 * [NVIDIA显卡驱动安装](ji-qi-xue-xi/nvidia-xian-ka-qu-dong-an-zhuang.md)
 
 ## 🏖 系统美化
