@@ -19,7 +19,7 @@
 * [SSH](chang-yong-kai-fa-gong-ju/ssh.md)
 * [Git](chang-yong-kai-fa-gong-ju/git/README.md)
   * [解决Github连接不上的问题](chang-yong-kai-fa-gong-ju/git/jie-jue-github-lian-jie-bu-shang-de-wen-ti.md)
-  * [设置邮箱和密码](chang-yong-kai-fa-gong-ju/git/she-zhi-you-xiang-he-mi-ma.md)
+  * [设置邮箱和名称](chang-yong-kai-fa-gong-ju/git/she-zhi-you-xiang-he-ming-cheng.md)
 
 ## 📌 语言
 
