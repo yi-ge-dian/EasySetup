@@ -34,7 +34,9 @@
 
 ## ☄️ 机器学习
 
-* [Anaconda 安装](ji-qi-xue-xi/anaconda-an-zhuang.md)
+* [Anaconda](ji-qi-xue-xi/anaconda-an-zhuang/README.md)
+  * [安装](ji-qi-xue-xi/anaconda-an-zhuang/an-zhuang.md)
+  * [命令](ji-qi-xue-xi/anaconda-an-zhuang/ming-ling.md)
 * [LLMs](ji-qi-xue-xi/llms/README.md)
   * [清华团队](ji-qi-xue-xi/llms/qing-hua-tuan-dui/README.md)
     * [ChatGLM-6B](ji-qi-xue-xi/llms/qing-hua-tuan-dui/chatglm-6b.md)
