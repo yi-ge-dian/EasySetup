@@ -16,7 +16,10 @@
 
 * [VScode 下 cmake + clang + lldb 调试](chang-yong-kai-fa-gong-ju/vscode-xia-cmake-+-clang-+-lldb-tiao-shi.md)
 * [Protoc 安装](chang-yong-kai-fa-gong-ju/protoc-an-zhuang.md)
-* [SSH](chang-yong-kai-fa-gong-ju/ssh.md)
+* [SSH](chang-yong-kai-fa-gong-ju/ssh/README.md)
+  * [生成密钥](chang-yong-kai-fa-gong-ju/ssh/sheng-cheng-mi-yue.md)
+  * [上传密钥](chang-yong-kai-fa-gong-ju/ssh/shang-chuan-mi-yue.md)
+  * [服务相关](chang-yong-kai-fa-gong-ju/ssh/fu-wu-xiang-guan.md)
 * [Git](chang-yong-kai-fa-gong-ju/git/README.md)
   * [解决Github连接不上的问题](chang-yong-kai-fa-gong-ju/git/jie-jue-github-lian-jie-bu-shang-de-wen-ti.md)
   * [设置邮箱和名称](chang-yong-kai-fa-gong-ju/git/she-zhi-you-xiang-he-ming-cheng.md)
