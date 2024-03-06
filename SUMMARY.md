@@ -61,3 +61,7 @@
 * [Windows 安装 wsl2](xu-ni-ji/windows-an-zhuang-wsl2.md)
 * [磁盘安装扩容问题](xu-ni-ji/ci-pan-an-zhuang-kuo-rong-wen-ti.md)
 * [虚拟机代理脚本](xu-ni-ji/xu-ni-ji-dai-li-jiao-ben.md)
+
+## 🍃 Blog
+
+* [hexo](blog/hexo.md)
