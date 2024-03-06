@@ -4,6 +4,30 @@ description: Ubuntu系统下NVIDIA显卡驱动安装
 
 # NVIDIA显卡驱动安装
 
+总体流程
+
+1. 安装 nvidia 驱动
+2. 根据nvidia驱动查看所支持的最高的cuda版本进行安装，下载 cuda-toolkit
+3. 查看是否安装成功
+
+```jsx
+nvcc -V
+```
+
+4. annaconda 安装
+
+{% content-ref url="anaconda-an-zhuang/" %}
+[anaconda-an-zhuang](anaconda-an-zhuang/)
+{% endcontent-ref %}
+
+5. pytorch 安装
+
+{% embed url="https://zhuanlan.zhihu.com/p/646308657" %}
+
+```bash
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+```
+
 ## 1. 下载驱动
 
 查看显卡型号
